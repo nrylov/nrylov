@@ -3,6 +3,7 @@
 Infrastructure and traffic-management engineer (previously at Meta) who builds agent tooling and preserves old software.
 
 - **Day job background:** Go control planes for Envoy/xDS, Kubernetes, Chef, BGP/ECMP datacenter rollouts, Prometheus/Grafana observability.
+- **Earlier:** sole software engineer at a biotech startup (Flask/FastAPI, GKE, gRPC, Prometheus/Grafana), and Python data pipelines for mass-spectrometry research. BS in Biochemistry.
 - **AI work:** an AI-powered oncall triage agent that auto-remediates alerts and attaches diagnostic context; MCP and agentic workflows with Claude and Ollama.
 - **Languages:** Python, Go, TypeScript, Ruby, Bash, SQL.
 - **Interests:** AI coding agents, retro computing, computer history.
