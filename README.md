@@ -18,4 +18,4 @@ I build agent tooling and preserve old software. Interests: AI coding agents, re
 - [rs2011-server](https://github.com/nrylov/rs2011-server): lightweight 2011 RuneScape multiplayer server (Kotlin).
 - [2010scape-web](https://github.com/nrylov/2010scape-web): website for the 2010scape revision-preservation project.
 
-I also contribute to [hermes-agent](https://github.com/NousResearch/hermes-agent) and use it daily for scheduled automations.
+I use [Hermes Agent](https://github.com/NousResearch/hermes-agent) daily for scheduled automations.
