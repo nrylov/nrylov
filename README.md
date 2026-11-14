@@ -1,6 +1,11 @@
 # Hi, I'm Nikolai Rylov
 
-I build agent tooling and preserve old software. Interests: AI coding agents, retro computing, computer history.
+Infrastructure and traffic-management engineer (previously at Meta) who builds agent tooling and preserves old software.
+
+- **Day job background:** Go control planes for Envoy/xDS, Kubernetes, Chef, BGP/ECMP datacenter rollouts, Prometheus/Grafana observability.
+- **AI work:** an AI-powered oncall triage agent that auto-remediates alerts and attaches diagnostic context; MCP and agentic workflows with Claude and Ollama.
+- **Languages:** Python, Go, TypeScript, Ruby, Bash, SQL.
+- **Interests:** AI coding agents, retro computing, computer history.
 
 ## AI and agent projects
 
